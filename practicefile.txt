@@ -1,0 +1,6 @@
+This is the first line of the practice file.
+Hello, world.
+I'm not sure how I would input this information from a file.
+Ok, thank you for reading.
+
+Goodbye!
