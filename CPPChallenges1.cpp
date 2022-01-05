@@ -1,3 +1,12 @@
+/*
+ * I'm wondering if this is actually
+ * any different from C code.
+ *
+ * I may come back to try to make it
+ * more idiomatically C++
+ *
+ */
+
 #include <iostream>
 #include <stdio.h>
 #include <math.h>
